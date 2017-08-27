@@ -1,6 +1,6 @@
 # todoua
 
-[Link to the project](http://todoua.herokuapp.com)
+[Link to the project](https://todoua.herokuapp.com)
 
 This project was deployed on [Heroku](https://www.heroku.com).
 
